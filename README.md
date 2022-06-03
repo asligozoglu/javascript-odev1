@@ -1,4 +1,4 @@
-##Javascript Saat ve Karşılama Ekranı
+Javascript Saat ve Karşılama Ekranı
 
 >Kodluyoruz Frontend Eğitiminin javascript dilinde ilk ödevi olan bu çalışmada, giriş yapıldığında isminizin istendiği, güncel saatin ve günün görüntülendiği sayfa ekranını oluşturdum.
 
